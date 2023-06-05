@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159524090886",
+    "project_id": "sufimart-44d60",
+    "storage_bucket": "sufimart-44d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159524090886:android:42a27e8613b3409ea77f87",
+        "android_client_info": {
+          "package_name": "com.example.emart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159524090886-8mbi1gi633tnqeprfm0endq5epr6i43f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart",
+            "certificate_hash": "efc34050e1ac3537f37f569efb609b5d2244c104"
+          }
+        },
+        {
+          "client_id": "159524090886-qbag2mb0ojd11img09p17vgi8uon0qv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE32MKFG1ucmGex5u7Kxi1FpIGTtsR1Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159524090886-qbag2mb0ojd11img09p17vgi8uon0qv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
